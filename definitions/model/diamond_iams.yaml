@@ -1,0 +1,13 @@
+# IAMs used in the DIAMOND modelling studies
+- CLEWs-EU:
+    description: "Climate-Land-Energy-Water modelling framework - EU version"
+- GCAM-Europe:
+    description: "The Global Change Assessment Model - EU version"
+- GEMINI-E3 EU:
+    description: "General Equilibrium Model of International-National Interactions between Economy, Energy and the Environment in the EU"
+- NEMESIS-World:
+    description: "New Econometric Model of Evaluation by Sectoral Interdependency and Supply - World version"
+- OMNIA:
+    descrption: "Open-source MuNdus Integrated Assessment model"
+- OPEN-PROM:
+    descrption: "Open Prometheus"
